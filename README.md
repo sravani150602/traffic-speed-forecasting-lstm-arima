@@ -91,6 +91,8 @@ Forecast Plot:
 
 Training Loss: 
 ![image](https://github.com/user-attachments/assets/a9615fd8-9464-4b34-a29e-bf44950a4738)
+LSTM Future Forecast
+![image](https://github.com/user-attachments/assets/dbef649b-8faf-4f95-9b12-c32643cf0b17)
 
 
 ---
@@ -132,7 +134,6 @@ It’s a master-level project to showcase both your ML depth and full-stack data
 ---
 
 ## Author
-
 Sravani Elavarthi
 M.S. Data Science, University of Maryland (UMD)  
 
