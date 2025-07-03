@@ -64,7 +64,9 @@ Plot: `output/eda_heatmap.png`
 - Auto ARIMA for optimal (p,d,q) selection  
 - Model diagnostics and residuals plot  
 
-Forecast Plot: `output/arima_forecast.png`
+Forecast Plot:
+![image](https://github.com/user-attachments/assets/911ea8f8-203b-4ef1-a465-6473b9067f72)
+
 
 ---
 
@@ -84,8 +86,12 @@ Forecast Plot: `output/arima_forecast.png`
 - Batch size: 32  
 - Optimizer: Adam  
 
-Forecast Plot: `output/lstm_forecast.png`  
-Training Loss: `output/loss_curve.png`
+Forecast Plot: 
+![image](https://github.com/user-attachments/assets/05aec4a7-10d7-4039-9d5c-c3164c172399)
+
+Training Loss: 
+![image](https://github.com/user-attachments/assets/a9615fd8-9464-4b34-a29e-bf44950a4738)
+
 
 ---
 
