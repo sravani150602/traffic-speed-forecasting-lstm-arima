@@ -51,7 +51,9 @@ EDA provided valuable insights on:
 - Missing value distributions  
 - Station-wise speed trends  
 
-Plot: `output/eda_heatmap.png`
+Plot: 
+Heatmap of Average Vehicle Count by Day and Hour:
+![image](https://github.com/user-attachments/assets/ed2c1ceb-0fee-4bba-a1ed-5210a326e612)
 
 ---
 
@@ -67,8 +69,6 @@ Plot: `output/eda_heatmap.png`
 Forecast Plot:
 ![image](https://github.com/user-attachments/assets/911ea8f8-203b-4ef1-a465-6473b9067f72)
 
-Heatmap of Average Vehicle Count by Day and Hour:
-![image](https://github.com/user-attachments/assets/ed2c1ceb-0fee-4bba-a1ed-5210a326e612)
 
  Time Series Decomposition (Trend, Seasonality, Residuals)
  ![image](https://github.com/user-attachments/assets/53167818-09a6-412c-8ccd-de26ab2b70b4)
