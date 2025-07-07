@@ -1,11 +1,31 @@
 #  Traffic Speed Forecasting using ARIMA & LSTM: A Deep Dive into Temporal Intelligence
 
+##  Problem Statement
+Traffic congestion is a growing challenge in urban areas, leading to increased travel time, fuel consumption, and commuter frustration. Forecasting traffic speed is essential for improving traffic management, optimizing signal control, and aiding city planners in building smarter, more efficient transportation systems.
+
+## What I Did
+In this project, I applied two time series forecasting models — **ARIMA** and **LSTM** — to predict future traffic speeds using historical speed data. The process included:
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Building and training ARIMA and LSTM models
+- Comparing their performance using error metrics
+- 
+  ## Outcome & Insights
+The **LSTM model** significantly outperformed the **ARIMA model** in terms of accuracy, achieving a lower **Root Mean Squared Error (RMSE)**. This indicates that LSTM can better capture complex, non-linear traffic patterns — making it a more robust model for real-world forecasting tasks.
+
 ##  Executive Summary
 
 In the era of smart cities and autonomous vehicles, forecasting traffic speed accurately is a *mission-critical task*. This project is an advanced implementation of **Time Series Forecasting** combining the robustness of statistical modeling with the power of deep learning. Leveraging **ARIMA** for interpretability and **LSTM (Long Short-Term Memory networks)** for sequence learning, this pipeline simulates a real-world deployment of predictive modeling on traffic data.
 
 The notebook simulates a full production-grade machine learning system, from ingesting raw zipped datasets to deploying trained models, complete with rigorous metric evaluation and explainability considerations.
 
+## Why This Matters
+By accurately forecasting traffic speeds, this project demonstrates the power of machine learning in enabling:
+- Smarter traffic light timing
+- Better route planning and navigation
+- Improved road safety and reduced congestion
+- Data-driven urban planning
 --
 
 ##  What Makes This Project Stand Out?
@@ -125,7 +145,7 @@ This project is built to be modular and scalable:
 
 ## Learnings and Complexity
 
-This project is not a toy. It integrates:
+ It integrates:
 
 - Statistical modeling theory (ACF, PACF, stationarity)  
 - Deep learning architecture tuning  
