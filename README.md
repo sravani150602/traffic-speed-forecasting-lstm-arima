@@ -1,4 +1,4 @@
-#  Traffic Speed Forecasting using ARIMA & LSTM: A Deep Dive into Temporal Intelligence
+#  Traffic Speed Forecasting and Prediction
 
 ##  Problem Statement
 Traffic congestion is a growing challenge in urban areas, leading to increased travel time, fuel consumption, and commuter frustration. Forecasting traffic speed is essential for improving traffic management, optimizing signal control, and aiding city planners in building smarter, more efficient transportation systems.
